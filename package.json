@@ -1,0 +1,19 @@
+{
+  "name": "antbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "discord.js": "^12.2.0",
+    "ffmpeg-static": "^4.2.4",
+    "node-fetch": "^2.6.0",
+    "ytdl-core": "^2.1.7"
+  }
+}
